@@ -1,2 +1,2 @@
 # datasciencecoursera
-The Data Scientist's Toolbox. Coursera project.
+The Data Scientist's specialization. Coursera project.
